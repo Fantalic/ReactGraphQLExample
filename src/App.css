@@ -1,0 +1,12 @@
+.App {
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #282c34;
+  color: white;
+}
+
+.app-container {
+  margin: 50px;
+  max-width: 1000px;
+}
